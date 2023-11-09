@@ -5,7 +5,7 @@ import "./interface/IERC20.sol";
 
 /**
  * @title Collateral protection for crypto backed loans
- * @author Marcellus Ifeanyi
+ * @author Konies jay
  * @notice
  */
 
